@@ -1,0 +1,5 @@
+userdb = "userpostgre"
+dpass = "password possgre"
+dbip = "ip database"
+dbs = "database"
+dbpt = "5432"

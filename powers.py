@@ -1,0 +1,5 @@
+userdb = "userdb"
+dpass = "password db"
+dbip = "db ip"
+dbs = "database"
+dbpt = "5432"
